@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TemplateDataLanguageMappings">
+    <file url="file://$PROJECT_DIR$/database/20240805180515_initial.down.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/database/20240805180515_initial.up.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/database/20240805184014_new_column.up.sql" dialect="PostgreSQL" />
+  </component>
+</project>
